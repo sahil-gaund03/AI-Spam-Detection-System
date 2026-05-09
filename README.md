@@ -15,7 +15,8 @@
 </div>
 
 ---
-<h3> Live demo : https://ai-spam-detection-system0310.streamlit.app/</h3>
+<h3> Live Demo : https://ai-spam-detection-system0310.streamlit.app/</h3>
+<h3> Live Demo: https://ai-spam-detection-system-03.streamlit.app/</h3>
 ## 📊 Model Performance
 
 | Metric | Score |
